@@ -1,0 +1,1567 @@
+﻿{
+  "data": [
+    {
+      "Country": "United States",
+      "GDP (2022)": "$23,759,787,154,965.10 ",
+      "Revenue to GDP": "28.06%",
+      "Budget": "$6,667,037,236,369.39 ",
+      "Next Year Tax Rate": "28.06%",
+      "NPC Growth": "2.78%"
+    },
+    {
+      "Country": "China",
+      "GDP (2022)": "$19,614,700,622,474.20 ",
+      "Revenue to GDP": "23.37%",
+      "Budget": "$4,584,322,432,208.74 ",
+      "Next Year Tax Rate": "23.37%",
+      "NPC Growth": "6.98%"
+    },
+    {
+      "Country": "Germany",
+      "GDP (2022)": "$5,684,844,045,162.78 ",
+      "Revenue to GDP": "30.50%",
+      "Budget": "$1,733,877,433,774.65 ",
+      "Next Year Tax Rate": "30.50%",
+      "NPC Growth": "2.24%"
+    },
+    {
+      "Country": "Japan",
+      "GDP (2022)": "$5,360,138,259,273.07 ",
+      "Revenue to GDP": "30.00%",
+      "Budget": "$1,608,041,477,781.92 ",
+      "Next Year Tax Rate": "30.00%",
+      "NPC Growth": "0.90%"
+    },
+    {
+      "Country": "India",
+      "GDP (2022)": "$3,655,251,489,799.01 ",
+      "Revenue to GDP": "18.41%",
+      "Budget": "$672,931,799,272.00 ",
+      "Next Year Tax Rate": "18.41%",
+      "NPC Growth": "7.40%"
+    },
+    {
+      "Country": "United Kingdom",
+      "GDP (2022)": "$3,115,390,012,241.32 ",
+      "Revenue to GDP": "35.40%",
+      "Budget": "$1,102,848,064,333.43 ",
+      "Next Year Tax Rate": "35.40%",
+      "NPC Growth": "1.50%"
+    },
+    {
+      "Country": "France",
+      "GDP (2022)": "$3,004,414,277,094.91 ",
+      "Revenue to GDP": "48.40%",
+      "Budget": "$1,454,136,510,113.94 ",
+      "Next Year Tax Rate": "48.40%",
+      "NPC Growth": "1.60%"
+    },
+    {
+      "Country": "Brazil",
+      "GDP (2022)": "$2,471,247,783,260.97 ",
+      "Revenue to GDP": "32.07%",
+      "Budget": "$792,523,175,470.71 ",
+      "Next Year Tax Rate": "32.07%",
+      "NPC Growth": "3.05%"
+    },
+    {
+      "Country": "Italy",
+      "GDP (2022)": "$2,107,633,878,000.42 ",
+      "Revenue to GDP": "42.40%",
+      "Budget": "$893,636,764,272.18 ",
+      "Next Year Tax Rate": "42.40%",
+      "NPC Growth": "1.00%"
+    },
+    {
+      "Country": "Canada",
+      "GDP (2022)": "$2,020,927,982,637.12 ",
+      "Revenue to GDP": "34.26%",
+      "Budget": "$692,418,751,199.36 ",
+      "Next Year Tax Rate": "34.26%",
+      "NPC Growth": "2.26%"
+    },
+    {
+      "Country": "South Korea",
+      "GDP (2022)": "$1,943,739,662,352.41 ",
+      "Revenue to GDP": "20.69%",
+      "Budget": "$402,086,074,452.18 ",
+      "Next Year Tax Rate": "20.69%",
+      "NPC Growth": "2.60%"
+    },
+    {
+      "Country": "Australia",
+      "GDP (2022)": "$1,828,261,015,777.78 ",
+      "Revenue to GDP": "31.48%",
+      "Budget": "$575,541,620,048.47 ",
+      "Next Year Tax Rate": "31.48%",
+      "NPC Growth": "1.50%"
+    },
+    {
+      "Country": "Russia",
+      "GDP (2022)": "$1,812,954,808,413.92 ",
+      "Revenue to GDP": "15.40%",
+      "Budget": "$279,109,091,604.70 ",
+      "Next Year Tax Rate": "15.40%",
+      "NPC Growth": "2.34%"
+    },
+    {
+      "Country": "Indonesia",
+      "GDP (2022)": "$1,730,521,826,638.17 ",
+      "Revenue to GDP": "16.00%",
+      "Budget": "$276,883,492,262.11 ",
+      "Next Year Tax Rate": "16.00%",
+      "NPC Growth": "8.39%"
+    },
+    {
+      "Country": "Spain",
+      "GDP (2022)": "$1,573,566,971,207.11 ",
+      "Revenue to GDP": "34.50%",
+      "Budget": "$542,880,605,066.45 ",
+      "Next Year Tax Rate": "34.50%",
+      "NPC Growth": "2.20%"
+    },
+    {
+      "Country": "Mexico",
+      "GDP (2022)": "$1,445,610,436,765.62 ",
+      "Revenue to GDP": "23.57%",
+      "Budget": "$340,693,110,702.47 ",
+      "Next Year Tax Rate": "23.57%",
+      "NPC Growth": "2.50%"
+    },
+    {
+      "Country": "Poland",
+      "GDP (2022)": "$1,389,132,585,947.74 ",
+      "Revenue to GDP": "35.60%",
+      "Budget": "$494,531,200,597.40 ",
+      "Next Year Tax Rate": "35.60%",
+      "NPC Growth": "14.40%"
+    },
+    {
+      "Country": "Netherlands",
+      "GDP (2022)": "$1,004,927,768,267.54 ",
+      "Revenue to GDP": "39.20%",
+      "Budget": "$393,931,685,160.88 ",
+      "Next Year Tax Rate": "39.20%",
+      "NPC Growth": "2.60%"
+    },
+    {
+      "Country": "Saudi Arabia",
+      "GDP (2022)": "$854,249,667,821.57 ",
+      "Revenue to GDP": "23.33%",
+      "Budget": "$199,286,482,534.40 ",
+      "Next Year Tax Rate": "23.33%",
+      "NPC Growth": "2.40%"
+    },
+    {
+      "Country": "Switzerland",
+      "GDP (2022)": "$743,907,068,456.48 ",
+      "Revenue to GDP": "28.50%",
+      "Budget": "$212,013,514,510.10 ",
+      "Next Year Tax Rate": "28.50%",
+      "NPC Growth": "1.80%"
+    },
+    {
+      "Country": "Taiwan",
+      "GDP (2022)": "$651,462,786,940.93 ",
+      "Revenue to GDP": "20.00%",
+      "Budget": "$130,292,557,388.19 ",
+      "Next Year Tax Rate": "20.00%",
+      "NPC Growth": "2.40%"
+    },
+    {
+      "Country": "Sweden",
+      "GDP (2022)": "$623,682,378,203.49 ",
+      "Revenue to GDP": "44.90%",
+      "Budget": "$280,033,387,813.37 ",
+      "Next Year Tax Rate": "44.90%",
+      "NPC Growth": "2.20%"
+    },
+    {
+      "Country": "Turkey",
+      "GDP (2022)": "$594,986,848,717.95 ",
+      "Revenue to GDP": "15.00%",
+      "Budget": "$89,248,027,307.69 ",
+      "Next Year Tax Rate": "15.00%",
+      "NPC Growth": "0.40%"
+    },
+    {
+      "Country": "Thailand",
+      "GDP (2022)": "$592,851,436,330.67 ",
+      "Revenue to GDP": "15.18%",
+      "Budget": "$90,015,649,565.99 ",
+      "Next Year Tax Rate": "15.18%",
+      "NPC Growth": "6.65%"
+    },
+    {
+      "Country": "Belgium",
+      "GDP (2022)": "$570,089,210,552.75 ",
+      "Revenue to GDP": "47.30%",
+      "Budget": "$269,652,196,591.45 ",
+      "Next Year Tax Rate": "47.30%",
+      "NPC Growth": "1.50%"
+    },
+    {
+      "Country": "Nigeria",
+      "GDP (2022)": "$540,205,525,899.57 ",
+      "Revenue to GDP": "18.00%",
+      "Budget": "$97,236,994,661.92 ",
+      "Next Year Tax Rate": "18.00%",
+      "NPC Growth": "3.01%"
+    },
+    {
+      "Country": "United Arab Emirates",
+      "GDP (2022)": "$508,051,329,657.31 ",
+      "Revenue to GDP": "18.31%",
+      "Budget": "$93,048,754,566.32 ",
+      "Next Year Tax Rate": "18.31%",
+      "NPC Growth": "3.70%"
+    },
+    {
+      "Country": "Austria",
+      "GDP (2022)": "$501,345,574,722.33 ",
+      "Revenue to GDP": "42.40%",
+      "Budget": "$212,570,523,682.27 ",
+      "Next Year Tax Rate": "42.40%",
+      "NPC Growth": "2.20%"
+    },
+    {
+      "Country": "Argentina",
+      "GDP (2022)": "$494,513,049,093.12 ",
+      "Revenue to GDP": "30.22%",
+      "Budget": "$149,433,764,559.42 ",
+      "Next Year Tax Rate": "30.22%",
+      "NPC Growth": "-1.60%"
+    },
+    {
+      "Country": "Norway",
+      "GDP (2022)": "$494,193,083,692.96 ",
+      "Revenue to GDP": "38.90%",
+      "Budget": "$192,241,109,556.56 ",
+      "Next Year Tax Rate": "38.90%",
+      "NPC Growth": "2.48%"
+    },
+    {
+      "Country": "Philippines",
+      "GDP (2022)": "$489,052,200,592.58 ",
+      "Revenue to GDP": "10.69%",
+      "Budget": "$52,269,187,385.06 ",
+      "Next Year Tax Rate": "25.00%",
+      "NPC Growth": "6.60%"
+    },
+    {
+      "Country": "Ireland",
+      "GDP (2022)": "$460,968,142,336.00 ",
+      "Revenue to GDP": "23.50%",
+      "Budget": "$108,327,513,448.96 ",
+      "Next Year Tax Rate": "23.50%",
+      "NPC Growth": "4.00%"
+    },
+    {
+      "Country": "South Africa",
+      "GDP (2022)": "$446,336,281,766.36 ",
+      "Revenue to GDP": "23.96%",
+      "Budget": "$106,951,400,708.58 ",
+      "Next Year Tax Rate": "23.96%",
+      "NPC Growth": "2.18%"
+    },
+    {
+      "Country": "Israel",
+      "GDP (2022)": "$429,214,624,795.13 ",
+      "Revenue to GDP": "24.68%",
+      "Budget": "$105,920,876,388.78 ",
+      "Next Year Tax Rate": "24.68%",
+      "NPC Growth": "3.50%"
+    },
+    {
+      "Country": "Malaysia",
+      "GDP (2022)": "$426,452,376,663.01 ",
+      "Revenue to GDP": "13.75%",
+      "Budget": "$58,629,934,563.28 ",
+      "Next Year Tax Rate": "13.75%",
+      "NPC Growth": "4.60%"
+    },
+    {
+      "Country": "Ukraine",
+      "GDP (2022)": "$423,586,622,076.04 ",
+      "Revenue to GDP": "26.78%",
+      "Budget": "$113,436,497,391.96 ",
+      "Next Year Tax Rate": "26.78%",
+      "NPC Growth": "13.67%"
+    },
+    {
+      "Country": "Hong Kong",
+      "GDP (2022)": "$414,962,839,479.76 ",
+      "Revenue to GDP": "17.38%",
+      "Budget": "$72,117,141,677.91 ",
+      "Next Year Tax Rate": "17.38%",
+      "NPC Growth": "2.90%"
+    },
+    {
+      "Country": "Colombia",
+      "GDP (2022)": "$394,918,048,228.93 ",
+      "Revenue to GDP": "23.97%",
+      "Budget": "$94,670,116,611.84 ",
+      "Next Year Tax Rate": "23.97%",
+      "NPC Growth": "3.60%"
+    },
+    {
+      "Country": "Singapore",
+      "GDP (2022)": "$387,270,329,671.88 ",
+      "Revenue to GDP": "14.85%",
+      "Budget": "$57,505,959,375.00 ",
+      "Next Year Tax Rate": "14.85%",
+      "NPC Growth": "2.50%"
+    },
+    {
+      "Country": "Denmark",
+      "GDP (2022)": "$382,773,595,757.09 ",
+      "Revenue to GDP": "46.50%",
+      "Budget": "$177,989,722,027.05 ",
+      "Next Year Tax Rate": "46.50%",
+      "NPC Growth": "1.90%"
+    },
+    {
+      "Country": "Bangladesh",
+      "GDP (2022)": "$385,139,821,926.70 ",
+      "Revenue to GDP": "8.64%",
+      "Budget": "$33,267,263,069.88 ",
+      "Next Year Tax Rate": "8.64%",
+      "NPC Growth": "7.10%"
+    },
+    {
+      "Country": "Iran",
+      "GDP (2022)": "$380,700,717,553.86 ",
+      "Revenue to GDP": "32.00%",
+      "Budget": "$121,824,229,617.23 ",
+      "Next Year Tax Rate": "32.00%",
+      "NPC Growth": "0.10%"
+    },
+    {
+      "Country": "Chile",
+      "GDP (2022)": "$359,904,535,861.02 ",
+      "Revenue to GDP": "17.43%",
+      "Budget": "$62,715,429,355.92 ",
+      "Next Year Tax Rate": "17.43%",
+      "NPC Growth": "3.40%"
+    },
+    {
+      "Country": "Pakistan",
+      "Revenue to GDP": "13.34%",
+      "Next Year Tax Rate": "13.34%",
+      "NPC Growth": "4.00%"
+    },
+    {
+      "Country": "Czechia",
+      "GDP (2022)": "$317,886,074,675.49 ",
+      "Revenue to GDP": "35.40%",
+      "Budget": "$112,531,670,435.12 ",
+      "Next Year Tax Rate": "35.40%",
+      "NPC Growth": "4.29%"
+    },
+    {
+      "Country": "Vietnam",
+      "GDP (2022)": "$321,602,092,260.75 ",
+      "Revenue to GDP": "18.56%",
+      "Budget": "$59,684,790,971.25 ",
+      "Next Year Tax Rate": "18.56%",
+      "NPC Growth": "6.50%"
+    },
+    {
+      "Country": "Finland",
+      "GDP (2022)": "$293,630,447,361.00 ",
+      "Revenue to GDP": "43.40%",
+      "Budget": "$127,435,614,154.67 ",
+      "Next Year Tax Rate": "43.40%",
+      "NPC Growth": "1.80%"
+    },
+    {
+      "Country": "Iraq",
+      "GDP (2022)": "$300,313,421,720.10 ",
+      "Revenue to GDP": "25.58%",
+      "Budget": "$76,822,687,997.10 ",
+      "Next Year Tax Rate": "25.58%",
+      "NPC Growth": "6.50%"
+    },
+    {
+      "Country": "Egypt",
+      "GDP (2022)": "$258,032,118,448.66 ",
+      "Revenue to GDP": "25.00%",
+      "Budget": "$30,456,057,404.31 ",
+      "Next Year Tax Rate": "25.00%",
+      "NPC Growth": "5.62%"
+    },
+    {
+      "Country": "Peru",
+      "GDP (2022)": "$269,863,549,405.86 ",
+      "Revenue to GDP": "24.94%",
+      "Budget": "$67,303,157,206.86 ",
+      "Next Year Tax Rate": "24.94%",
+      "NPC Growth": "4.10%"
+    },
+    {
+      "Country": "Portugal",
+      "GDP (2022)": "$256,183,431,878.06 ",
+      "Revenue to GDP": "36.90%",
+      "Budget": "$94,531,686,363.00 ",
+      "Next Year Tax Rate": "36.90%",
+      "NPC Growth": "1.80%"
+    },
+    {
+      "Country": "Bulgaria",
+      "GDP (2022)": "$245,929,733,630.95 ",
+      "Revenue to GDP": "41.48%",
+      "Budget": "$102,018,552,997.10 ",
+      "Next Year Tax Rate": "41.48%",
+      "NPC Growth": "7.37%"
+    },
+    {
+      "Country": "Greece",
+      "GDP (2022)": "$240,553,602,056.19 ",
+      "Revenue to GDP": "41.80%",
+      "Budget": "$100,551,405,659.49 ",
+      "Next Year Tax Rate": "41.80%",
+      "NPC Growth": "2.40%"
+    },
+    {
+      "Country": "New Zealand",
+      "GDP (2022)": "$231,826,403,958.00 ",
+      "Revenue to GDP": "34.50%",
+      "Budget": "$79,987,616,400.00 ",
+      "Next Year Tax Rate": "34.50%",
+      "NPC Growth": "3.00%"
+    },
+    {
+      "Country": "Kazakhstan",
+      "GDP (2022)": "$222,834,252,293.48 ",
+      "Revenue to GDP": "17.44%",
+      "Budget": "$38,854,657,914.03 ",
+      "Next Year Tax Rate": "17.44%",
+      "NPC Growth": "3.10%"
+    },
+    {
+      "Country": "Qatar",
+      "GDP (2022)": "$221,952,716,637.31 ",
+      "Revenue to GDP": "20.30%",
+      "Budget": "$45,051,927,789.44 ",
+      "Next Year Tax Rate": "20.30%",
+      "NPC Growth": "2.80%"
+    },
+    {
+      "Country": "Algeria",
+      "GDP (2022)": "$214,145,262,727.82 ",
+      "Revenue to GDP": "26.02%",
+      "Budget": "$55,715,789,414.38 ",
+      "Next Year Tax Rate": "26.02%",
+      "NPC Growth": "2.70%"
+    },
+    {
+      "Country": "Hungary",
+      "GDP (2022)": "$189,063,736,204.55 ",
+      "Revenue to GDP": "38.40%",
+      "Budget": "$72,600,474,702.55 ",
+      "Next Year Tax Rate": "38.40%",
+      "NPC Growth": "4.31%"
+    },
+    {
+      "Country": "Kuwait",
+      "GDP (2022)": "$171,894,925,850.45 ",
+      "Revenue to GDP": "34.70%",
+      "Budget": "$59,643,277,263.27 ",
+      "Next Year Tax Rate": "34.70%",
+      "NPC Growth": "4.10%"
+    },
+    {
+      "Country": "Romania",
+      "GDP (2022)": "$165,417,374,367.70 ",
+      "Revenue to GDP": "25.80%",
+      "Budget": "$42,677,682,586.87 ",
+      "Next Year Tax Rate": "25.80%",
+      "NPC Growth": "3.40%"
+    },
+    {
+      "Country": "Slovakia",
+      "GDP (2022)": "$126,724,196,421.69 ",
+      "Revenue to GDP": "33.20%",
+      "Budget": "$42,072,433,212.00 ",
+      "Next Year Tax Rate": "33.20%",
+      "NPC Growth": "4.10%"
+    },
+    {
+      "Country": "Morocco",
+      "GDP (2022)": "$133,733,395,000.40 ",
+      "Revenue to GDP": "21.75%",
+      "Budget": "$29,081,973,483.65 ",
+      "Next Year Tax Rate": "21.75%",
+      "NPC Growth": "3.20%"
+    },
+    {
+      "Country": "Angola",
+      "GDP (2022)": "$120,754,246,789.13 ",
+      "Revenue to GDP": "32.30%",
+      "Budget": "$39,003,536,231.69 ",
+      "Next Year Tax Rate": "32.30%",
+      "NPC Growth": "3.10%"
+    },
+    {
+      "Country": "Kenya",
+      "GDP (2022)": "$117,332,351,738.48 ",
+      "Revenue to GDP": "15.64%",
+      "Budget": "$18,352,583,308.44 ",
+      "Next Year Tax Rate": "15.64%",
+      "NPC Growth": "6.10%"
+    },
+    {
+      "Country": "Ecuador",
+      "GDP (2022)": "$110,693,393,128.54 ",
+      "Revenue to GDP": "29.80%",
+      "Budget": "$32,983,059,178.90 ",
+      "Next Year Tax Rate": "29.80%",
+      "NPC Growth": "0.70%"
+    },
+    {
+      "Country": "Sri Lanka",
+      "GDP (2022)": "$111,239,917,372.79 ",
+      "Revenue to GDP": "12.89%",
+      "Budget": "$14,341,679,048.48 ",
+      "Next Year Tax Rate": "12.89%",
+      "NPC Growth": "4.30%"
+    },
+    {
+      "Country": "Ethiopia",
+      "GDP (2022)": "$91,960,992,147.15 ",
+      "Revenue to GDP": "13.73%",
+      "Budget": "$12,630,686,343.45 ",
+      "Next Year Tax Rate": "13.73%",
+      "NPC Growth": "8.50%"
+    },
+    {
+      "Country": "Cuba",
+      "GDP (2022)": "$107,638,687,479.17 ",
+      "Revenue to GDP": "59.59%",
+      "Budget": "$64,145,611,031.04 ",
+      "Next Year Tax Rate": "59.59%",
+      "NPC Growth": "4.40%"
+    },
+    {
+      "Country": "Oman",
+      "GDP (2022)": "$100,163,503,125.00 ",
+      "Revenue to GDP": "26.21%",
+      "Budget": "$26,254,935,000.00 ",
+      "Next Year Tax Rate": "26.21%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Dominican Republic",
+      "GDP (2022)": "$99,342,747,000.00 ",
+      "Revenue to GDP": "13.03%",
+      "Budget": "$12,942,247,500.00 ",
+      "Next Year Tax Rate": "13.03%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Guatemala",
+      "GDP (2022)": "$91,489,573,464.43 ",
+      "Revenue to GDP": "10.07%",
+      "Budget": "$9,214,403,378.84 ",
+      "Next Year Tax Rate": "10.07%",
+      "NPC Growth": "3.40%"
+    },
+    {
+      "Country": "Myanmar",
+      "GDP (2022)": "$90,089,759,392.13 ",
+      "Revenue to GDP": "12.46%",
+      "Budget": "$11,225,184,020.26 ",
+      "Next Year Tax Rate": "12.46%",
+      "NPC Growth": "6.80%"
+    },
+    {
+      "Country": "Venezuela",
+      "GDP (2022)": "$74,600,198,750.00 ",
+      "Revenue to GDP": "89.52%",
+      "Budget": "$66,782,097,921.00 ",
+      "Next Year Tax Rate": "89.52%",
+      "NPC Growth": "-5.00%"
+    },
+    {
+      "Country": "Panama",
+      "GDP (2022)": "$87,971,333,186.88 ",
+      "Revenue to GDP": "17.45%",
+      "Budget": "$15,349,149,043.20 ",
+      "Next Year Tax Rate": "17.45%",
+      "NPC Growth": "6.80%"
+    },
+    {
+      "Country": "Luxembourg",
+      "GDP (2022)": "$79,266,675,755.25 ",
+      "Revenue to GDP": "40.30%",
+      "Budget": "$31,944,470,329.37 ",
+      "Next Year Tax Rate": "40.30%",
+      "NPC Growth": "3.50%"
+    },
+    {
+      "Country": "Costa Rica",
+      "GDP (2022)": "$70,490,068,215.28 ",
+      "Revenue to GDP": "12.92%",
+      "Budget": "$9,107,226,865.49 ",
+      "Next Year Tax Rate": "12.92%",
+      "NPC Growth": "3.30%"
+    },
+    {
+      "Country": "Uruguay",
+      "GDP (2022)": "$69,125,996,173.82 ",
+      "Revenue to GDP": "28.13%",
+      "Budget": "$19,443,163,345.92 ",
+      "Next Year Tax Rate": "28.13%",
+      "NPC Growth": "3.20%"
+    },
+    {
+      "Country": "Croatia",
+      "GDP (2022)": "$63,163,970,459.70 ",
+      "Revenue to GDP": "37.80%",
+      "Budget": "$23,875,980,833.77 ",
+      "Next Year Tax Rate": "37.80%",
+      "NPC Growth": "2.60%"
+    },
+    {
+      "Country": "Tanzania",
+      "GDP (2022)": "$73,041,102,342.31 ",
+      "Revenue to GDP": "13.06%",
+      "Budget": "$9,535,790,464.51 ",
+      "Next Year Tax Rate": "13.06%",
+      "NPC Growth": "6.60%"
+    },
+    {
+      "Country": "Belarus",
+      "GDP (2022)": "$65,715,314,599.52 ",
+      "Revenue to GDP": "38.02%",
+      "Budget": "$24,986,811,634.80 ",
+      "Next Year Tax Rate": "38.02%",
+      "NPC Growth": "3.10%"
+    },
+    {
+      "Country": "Lebanon",
+      "GDP (2022)": "$62,276,030,320.61 ",
+      "Revenue to GDP": "18.25%",
+      "Budget": "$11,364,239,109.60 ",
+      "Next Year Tax Rate": "18.25%",
+      "NPC Growth": "1.40%"
+    },
+    {
+      "Country": "Macau",
+      "GDP (2022)": "$69,464,113,185.06 ",
+      "Revenue to GDP": "24.62%",
+      "Budget": "$17,104,476,349.28 ",
+      "Next Year Tax Rate": "24.62%",
+      "NPC Growth": "6.30%"
+    },
+    {
+      "Country": "Ghana",
+      "GDP (2022)": "$71,293,998,269.50 ",
+      "Revenue to GDP": "16.14%",
+      "Budget": "$11,505,903,790.34 ",
+      "Next Year Tax Rate": "16.14%",
+      "NPC Growth": "7.60%"
+    },
+    {
+      "Country": "Slovenia",
+      "GDP (2022)": "$62,925,475,743.68 ",
+      "Revenue to GDP": "36.80%",
+      "Budget": "$23,156,575,073.67 ",
+      "Next Year Tax Rate": "36.80%",
+      "NPC Growth": "3.40%"
+    },
+    {
+      "Country": "Lithuania",
+      "GDP (2022)": "$59,363,989,489.67 ",
+      "Revenue to GDP": "29.80%",
+      "Budget": "$17,690,468,867.92 ",
+      "Next Year Tax Rate": "29.80%",
+      "NPC Growth": "2.90%"
+    },
+    {
+      "Country": "Uzbekistan",
+      "GDP (2022)": "$59,431,309,875.00 ",
+      "Revenue to GDP": "39.17%",
+      "Budget": "$23,279,838,750.00 ",
+      "Next Year Tax Rate": "39.17%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Côte d'Ivoire",
+      "GDP (2022)": "$60,510,998,985.00 ",
+      "Revenue to GDP": "14.42%",
+      "Budget": "$8,723,531,203.00 ",
+      "Next Year Tax Rate": "14.42%",
+      "NPC Growth": "7.00%"
+    },
+    {
+      "Country": "Serbia",
+      "GDP (2022)": "$37,269,473,275.82 ",
+      "Revenue to GDP": "32.41%",
+      "Budget": "$12,078,999,196.88 ",
+      "Next Year Tax Rate": "32.41%",
+      "NPC Growth": "3.50%"
+    },
+    {
+      "Country": "Democratic Republic of the Congo",
+      "GDP (2022)": "$54,598,207,021.80 ",
+      "Revenue to GDP": "7.02%",
+      "Budget": "$3,833,488,612.37 ",
+      "Next Year Tax Rate": "7.02%",
+      "NPC Growth": "4.45%"
+    },
+    {
+      "Country": "Azerbaijan",
+      "GDP (2022)": "$53,449,586,979.26 ",
+      "Revenue to GDP": "20.50%",
+      "Budget": "$10,954,780,230.91 ",
+      "Next Year Tax Rate": "20.50%",
+      "NPC Growth": "3.60%"
+    },
+    {
+      "Country": "Turkmenistan",
+      "GDP (2022)": "$55,397,066,047.49 ",
+      "Revenue to GDP": "9.43%",
+      "Budget": "$5,223,760,920.58 ",
+      "Next Year Tax Rate": "9.43%",
+      "NPC Growth": "5.60%"
+    },
+    {
+      "Country": "Bolivia",
+      "GDP (2022)": "$50,962,385,433.96 ",
+      "Revenue to GDP": "33.32%",
+      "Budget": "$16,981,804,980.88 ",
+      "Next Year Tax Rate": "33.32%",
+      "NPC Growth": "4.20%"
+    },
+    {
+      "Country": "Paraguay",
+      "GDP (2022)": "$50,410,278,783.02 ",
+      "Revenue to GDP": "12.04%",
+      "Budget": "$6,070,910,428.21 ",
+      "Next Year Tax Rate": "12.04%",
+      "NPC Growth": "4.20%"
+    },
+    {
+      "Country": "Libya",
+      "GDP (2022)": "$36,430,558,343.04 ",
+      "Revenue to GDP": "31.81%",
+      "Budget": "$11,589,928,263.04 ",
+      "Next Year Tax Rate": "31.81%",
+      "NPC Growth": "-10.80%"
+    },
+    {
+      "Country": "Jordan",
+      "GDP (2022)": "$47,370,264,812.50 ",
+      "Revenue to GDP": "20.82%",
+      "Budget": "$9,861,087,453.13 ",
+      "Next Year Tax Rate": "20.82%",
+      "NPC Growth": "2.50%"
+    },
+    {
+      "Country": "Tunisia",
+      "GDP (2022)": "$53,107,158,396.54 ",
+      "Revenue to GDP": "22.23%",
+      "Budget": "$11,804,242,672.19 ",
+      "Next Year Tax Rate": "22.23%",
+      "NPC Growth": "6.35%"
+    },
+    {
+      "Country": "Bahrain",
+      "GDP (2022)": "$44,937,456,280.63 ",
+      "Revenue to GDP": "13.13%",
+      "Budget": "$5,900,288,981.69 ",
+      "Next Year Tax Rate": "13.13%",
+      "NPC Growth": "2.60%"
+    },
+    {
+      "Country": "Cameroon",
+      "GDP (2022)": "$45,657,964,008.00 ",
+      "Revenue to GDP": "12.84%",
+      "Budget": "$5,864,701,470.34 ",
+      "Next Year Tax Rate": "12.84%",
+      "NPC Growth": "4.40%"
+    },
+    {
+      "Country": "Latvia",
+      "GDP (2022)": "$39,440,399,085.86 ",
+      "Revenue to GDP": "31.40%",
+      "Budget": "$12,384,285,312.96 ",
+      "Next Year Tax Rate": "31.40%",
+      "NPC Growth": "3.30%"
+    },
+    {
+      "Country": "Sudan",
+      "GDP (2022)": "$32,450,729,194.59 ",
+      "Revenue to GDP": "23.85%",
+      "Budget": "$7,739,536,203.92 ",
+      "Next Year Tax Rate": "23.85%",
+      "NPC Growth": "-1.90%"
+    },
+    {
+      "Country": "Syria",
+      "GDP (2022)": "$32,482,404,000.00 ",
+      "Revenue to GDP": "3.23%",
+      "Budget": "$1,048,572,604.13 ",
+      "Next Year Tax Rate": "3.23%",
+      "NPC Growth": "0.50%"
+    },
+    {
+      "Country": "Estonia",
+      "GDP (2022)": "$34,268,987,561.47 ",
+      "Revenue to GDP": "33.00%",
+      "Budget": "$11,308,765,895.29 ",
+      "Next Year Tax Rate": "33.00%",
+      "NPC Growth": "3.20%"
+    },
+    {
+      "Country": "Nepal",
+      "GDP (2022)": "$35,072,564,625.00 ",
+      "Revenue to GDP": "19.65%",
+      "Budget": "$6,892,499,250.00 ",
+      "Next Year Tax Rate": "19.65%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Uganda",
+      "GDP (2022)": "$35,675,234,342.49 ",
+      "Revenue to GDP": "13.46%",
+      "Budget": "$4,800,253,333.64 ",
+      "Next Year Tax Rate": "13.46%",
+      "NPC Growth": "6.10%"
+    },
+    {
+      "Country": "Yemen",
+      "GDP (2022)": "$21,076,770,000.00 ",
+      "Revenue to GDP": "10.10%",
+      "Budget": "$2,129,171,375.00 ",
+      "Next Year Tax Rate": "10.10%",
+      "NPC Growth": "-15.00%"
+    },
+    {
+      "Country": "Iceland",
+      "GDP (2022)": "$30,781,892,834.03 ",
+      "Revenue to GDP": "35.26%",
+      "Budget": "$10,854,071,089.22 ",
+      "Next Year Tax Rate": "35.26%",
+      "NPC Growth": "2.90%"
+    },
+    {
+      "Country": "Cambodia",
+      "GDP (2022)": "$32,126,012,584.70 ",
+      "Revenue to GDP": "16.18%",
+      "Budget": "$5,199,219,691.78 ",
+      "Next Year Tax Rate": "16.18%",
+      "NPC Growth": "6.80%"
+    },
+    {
+      "Country": "El Salvador",
+      "GDP (2022)": "$28,821,600,174.81 ",
+      "Revenue to GDP": "21.38%",
+      "Budget": "$6,162,368,805.25 ",
+      "Next Year Tax Rate": "21.38%",
+      "NPC Growth": "2.30%"
+    },
+    {
+      "Country": "Zambia",
+      "GDP (2022)": "$29,804,976,852.75 ",
+      "Revenue to GDP": "18.74%",
+      "Budget": "$5,586,008,181.88 ",
+      "Next Year Tax Rate": "18.74%",
+      "NPC Growth": "4.50%"
+    },
+    {
+      "Country": "Senegal",
+      "GDP (2022)": "$31,588,820,909.05 ",
+      "Revenue to GDP": "14.86%",
+      "Budget": "$4,692,647,868.47 ",
+      "Next Year Tax Rate": "14.86%",
+      "NPC Growth": "6.70%"
+    },
+    {
+      "Country": "Cyprus",
+      "GDP (2022)": "$28,279,626,735.65 ",
+      "Revenue to GDP": "34.00%",
+      "Budget": "$9,615,073,090.12 ",
+      "Next Year Tax Rate": "34.00%",
+      "NPC Growth": "4.20%"
+    },
+    {
+      "Country": "Honduras",
+      "GDP (2022)": "$27,237,951,333.38 ",
+      "Revenue to GDP": "17.86%",
+      "Budget": "$4,865,826,054.66 ",
+      "Next Year Tax Rate": "17.86%",
+      "NPC Growth": "3.60%"
+    },
+    {
+      "Country": "Trinidad and Tobago",
+      "GDP (2022)": "$24,820,262,980.10 ",
+      "Revenue to GDP": "28.62%",
+      "Budget": "$7,104,417,629.76 ",
+      "Next Year Tax Rate": "28.62%",
+      "NPC Growth": "0.90%"
+    },
+    {
+      "Country": "Papua New Guinea",
+      "GDP (2022)": "$27,442,877,915.07 ",
+      "Revenue to GDP": "16.94%",
+      "Budget": "$4,648,334,099.81 ",
+      "Next Year Tax Rate": "16.94%",
+      "NPC Growth": "5.27%"
+    },
+    {
+      "Country": "Rhodesia",
+      "Revenue to GDP": "16.64%",
+      "Next Year Tax Rate": "16.65%"
+    },
+    {
+      "Country": "Afghanistan",
+      "GDP (2022)": "$23,028,128,798.00 ",
+      "Revenue to GDP": "9.45%",
+      "Budget": "$2,176,712,184.00 ",
+      "Next Year Tax Rate": "9.45%",
+      "NPC Growth": "3.00%"
+    },
+    {
+      "Country": "Laos",
+      "GDP (2022)": "$24,481,259,312.00 ",
+      "Revenue to GDP": "15.73%",
+      "Budget": "$3,851,535,192.00 ",
+      "Next Year Tax Rate": "15.73%",
+      "NPC Growth": "7.00%"
+    },
+    {
+      "Country": "Bosnia and Herzegovina",
+      "GDP (2022)": "$18,092,516,768.55 ",
+      "Revenue to GDP": "39.43%",
+      "Budget": "$7,133,814,317.70 ",
+      "Next Year Tax Rate": "39.43%",
+      "NPC Growth": "3.50%"
+    },
+    {
+      "Country": "Botswana",
+      "GDP (2022)": "$21,424,756,951.81 ",
+      "Revenue to GDP": "29.11%",
+      "Budget": "$6,236,841,485.50 ",
+      "Next Year Tax Rate": "29.11%",
+      "NPC Growth": "3.60%"
+    },
+    {
+      "Country": "Mali",
+      "GDP (2022)": "$21,280,105,680.90 ",
+      "Revenue to GDP": "16.59%",
+      "Budget": "$3,531,337,312.26 ",
+      "Next Year Tax Rate": "16.59%",
+      "NPC Growth": "4.80%"
+    },
+    {
+      "Country": "Georgia",
+      "GDP (2022)": "$20,529,638,950.91 ",
+      "Revenue to GDP": "23.88%",
+      "Budget": "$4,903,356,241.92 ",
+      "Next Year Tax Rate": "23.88%",
+      "NPC Growth": "4.80%"
+    },
+    {
+      "Country": "Gabon",
+      "GDP (2022)": "$19,676,924,503.90 ",
+      "Revenue to GDP": "17.54%",
+      "Budget": "$3,451,393,803.09 ",
+      "Next Year Tax Rate": "17.54%",
+      "NPC Growth": "3.40%"
+    },
+    {
+      "Country": "Mozambique",
+      "GDP (2022)": "$17,550,128,128.00 ",
+      "Revenue to GDP": "17.68%",
+      "Budget": "$3,102,374,912.00 ",
+      "Next Year Tax Rate": "17.68%",
+      "NPC Growth": "4.00%"
+    },
+    {
+      "Country": "Albania",
+      "GDP (2022)": "$17,435,489,904.66 ",
+      "Revenue to GDP": "22.30%",
+      "Budget": "$3,887,439,578.36 ",
+      "Next Year Tax Rate": "22.30%",
+      "NPC Growth": "3.70%"
+    },
+    {
+      "Country": "Burkina Faso",
+      "GDP (2022)": "$18,283,286,616.00 ",
+      "Revenue to GDP": "17.17%",
+      "Budget": "$3,138,327,160.00 ",
+      "Next Year Tax Rate": "17.17%",
+      "NPC Growth": "6.00%"
+    },
+    {
+      "Country": "Jamaica",
+      "GDP (2022)": "$16,463,160,336.00 ",
+      "Revenue to GDP": "26.72%",
+      "Budget": "$4,399,168,923.63 ",
+      "Next Year Tax Rate": "26.72%",
+      "NPC Growth": "1.50%"
+    },
+    {
+      "Country": "Brunei",
+      "GDP (2022)": "$17,649,704,702.15 ",
+      "Revenue to GDP": "9.44%",
+      "Budget": "$1,665,942,659.19 ",
+      "Next Year Tax Rate": "9.44%",
+      "NPC Growth": "5.10%"
+    },
+    {
+      "Country": "Malta",
+      "GDP (2022)": "$17,236,491,205.50 ",
+      "Revenue to GDP": "33.40%",
+      "Budget": "$5,756,988,062.64 ",
+      "Next Year Tax Rate": "33.40%",
+      "NPC Growth": "4.60%"
+    },
+    {
+      "Country": "Mauritius",
+      "GDP (2022)": "$16,748,100,096.00 ",
+      "Revenue to GDP": "19.56%",
+      "Budget": "$3,275,603,968.00 ",
+      "Next Year Tax Rate": "19.56%",
+      "NPC Growth": "4.00%"
+    },
+    {
+      "Country": "Namibia",
+      "GDP (2022)": "$16,205,262,440.52 ",
+      "Revenue to GDP": "26.83%",
+      "Budget": "$4,347,486,041.90 ",
+      "Next Year Tax Rate": "26.83%",
+      "NPC Growth": "3.10%"
+    },
+    {
+      "Country": "Mongolia",
+      "GDP (2022)": "$16,920,699,321.09 ",
+      "Revenue to GDP": "18.62%",
+      "Budget": "$3,150,634,934.28 ",
+      "Next Year Tax Rate": "18.62%",
+      "NPC Growth": "6.30%"
+    },
+    {
+      "Country": "Madagascar",
+      "GDP (2022)": "$15,869,281,753.59 ",
+      "Revenue to GDP": "9.53%",
+      "Budget": "$1,512,809,859.49 ",
+      "Next Year Tax Rate": "9.53%",
+      "NPC Growth": "5.40%"
+    },
+    {
+      "Country": "Bahamas",
+      "GDP (2022)": "$14,532,392,691.69 ",
+      "Revenue to GDP": "15.38%",
+      "Budget": "$2,235,097,748.10 ",
+      "Next Year Tax Rate": "15.38%",
+      "NPC Growth": "2.10%"
+    },
+    {
+      "Country": "Nicaragua",
+      "GDP (2022)": "$13,221,294,174.00 ",
+      "Revenue to GDP": "27.89%",
+      "Budget": "$3,687,136,200.00 ",
+      "Next Year Tax Rate": "27.89%",
+      "NPC Growth": "-1.00%"
+    },
+    {
+      "Country": "Armenia",
+      "GDP (2022)": "$15,310,902,518.78 ",
+      "Revenue to GDP": "19.06%",
+      "Budget": "$2,918,993,293.31 ",
+      "Next Year Tax Rate": "19.06%",
+      "NPC Growth": "4.80%"
+    },
+    {
+      "Country": "Equatorial Guinea",
+      "GDP (2022)": "$11,977,023,115.89 ",
+      "Revenue to GDP": "24.58%",
+      "Budget": "$2,943,897,210.86 ",
+      "Next Year Tax Rate": "24.58%",
+      "NPC Growth": "-2.60%"
+    },
+    {
+      "Country": "Moldova",
+      "GDP (2022)": "$14,250,485,523.02 ",
+      "Revenue to GDP": "21.94%",
+      "Budget": "$3,127,009,694.11 ",
+      "Next Year Tax Rate": "21.94%",
+      "NPC Growth": "3.80%"
+    },
+    {
+      "Country": "Macedonia (FYROM)",
+      "GDP (2022)": "$13,806,222,598.01 ",
+      "Revenue to GDP": "25.93%",
+      "Budget": "$3,579,271,038.86 ",
+      "Next Year Tax Rate": "25.93%",
+      "NPC Growth": "2.60%"
+    },
+    {
+      "Country": "Guinea",
+      "GDP (2022)": "$14,804,037,044.24 ",
+      "Revenue to GDP": "12.51%",
+      "Budget": "$1,851,543,822.86 ",
+      "Next Year Tax Rate": "12.51%",
+      "NPC Growth": "5.90%"
+    },
+    {
+      "Country": "North Korea",
+      "GDP (2022)": "$13,522,297,258.25 ",
+      "Revenue to GDP": "25.45%",
+      "Budget": "$3,441,007,000.00 ",
+      "Next Year Tax Rate": "25.45%",
+      "NPC Growth": "2.50%"
+    },
+    {
+      "Country": "Republic of the Congo",
+      "GDP (2022)": "$13,475,565,078.85 ",
+      "Revenue to GDP": "20.82%",
+      "Budget": "$2,805,736,654.95 ",
+      "Next Year Tax Rate": "20.82%",
+      "NPC Growth": "3.70%"
+    },
+    {
+      "Country": "Chad",
+      "GDP (2022)": "$13,074,127,685.25 ",
+      "Revenue to GDP": "10.02%",
+      "Budget": "$1,309,859,024.77 ",
+      "Next Year Tax Rate": "10.02%",
+      "NPC Growth": "3.60%"
+    },
+    {
+      "Country": "Benin",
+      "GDP (2022)": "$13,676,374,137.14 ",
+      "Revenue to GDP": "12.05%",
+      "Budget": "$1,647,987,468.48 ",
+      "Next Year Tax Rate": "12.05%",
+      "NPC Growth": "6.30%"
+    },
+    {
+      "Country": "Rwanda",
+      "GDP (2022)": "$13,193,716,045.66 ",
+      "Revenue to GDP": "17.79%",
+      "Budget": "$2,347,609,558.45 ",
+      "Next Year Tax Rate": "17.79%",
+      "NPC Growth": "7.80%"
+    },
+    {
+      "Country": "Niger",
+      "GDP (2022)": "$11,750,036,331.24 ",
+      "Revenue to GDP": "16.74%",
+      "Budget": "$1,967,121,179.52 ",
+      "Next Year Tax Rate": "16.74%",
+      "NPC Growth": "5.40%"
+    },
+    {
+      "Country": "Haiti",
+      "GDP (2022)": "$10,828,135,234.38 ",
+      "Revenue to GDP": "15.71%",
+      "Budget": "$1,701,487,187.50 ",
+      "Next Year Tax Rate": "15.71%",
+      "NPC Growth": "2.50%"
+    },
+    {
+      "Country": "Kyrgyzstan",
+      "GDP (2022)": "$9,720,453,052.75 ",
+      "Revenue to GDP": "24.07%",
+      "Budget": "$2,339,390,556.25 ",
+      "Next Year Tax Rate": "24.07%",
+      "NPC Growth": "4.50%"
+    },
+    {
+      "Country": "Kosovo",
+      "GDP (2022)": "$9,232,883,712.00 ",
+      "Revenue to GDP": "17.01%",
+      "Budget": "$1,570,310,144.00 ",
+      "Next Year Tax Rate": "17.01%",
+      "NPC Growth": "4.00%"
+    },
+    {
+      "Country": "Somalia",
+      "GDP (2022)": "$8,672,391,218.25 ",
+      "Revenue to GDP": "1.85%",
+      "Budget": "$160,764,091.88 ",
+      "Next Year Tax Rate": "1.85%",
+      "NPC Growth": "3.50%"
+    },
+    {
+      "Country": "Eritrea",
+      "GDP (2022)": "$8,633,946,651.84 ",
+      "Revenue to GDP": "26.28%",
+      "Budget": "$2,269,206,963.29 ",
+      "Next Year Tax Rate": "26.28%",
+      "NPC Growth": "3.80%"
+    },
+    {
+      "Country": "Tajikistan",
+      "GDP (2022)": "$8,771,324,625.00 ",
+      "Revenue to GDP": "29.22%",
+      "Budget": "$2,562,981,750.00 ",
+      "Next Year Tax Rate": "29.22%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Malawi",
+      "GDP (2022)": "$8,409,423,740.12 ",
+      "Revenue to GDP": "17.72%",
+      "Budget": "$1,489,754,608.25 ",
+      "Next Year Tax Rate": "17.72%",
+      "NPC Growth": "4.70%"
+    },
+    {
+      "Country": "Liechtenstein",
+      "GDP (2022)": "$6,693,585,589.43 ",
+      "Revenue to GDP": "5.00%",
+      "Budget": "$334,679,279.47 ",
+      "Next Year Tax Rate": "5.00%",
+      "NPC Growth": "2.10%"
+    },
+    {
+      "Country": "Moncao",
+      "GDP (2022)": "$6,638,316,525.00 ",
+      "Revenue to GDP": "5.40%",
+      "Budget": "$358,469,092.35 ",
+      "Next Year Tax Rate": "5.40%",
+      "NPC Growth": "3.00%"
+    },
+    {
+      "Country": "Togo",
+      "GDP (2022)": "$6,567,206,625.00 ",
+      "Revenue to GDP": "25.89%",
+      "Budget": "$1,700,551,125.00 ",
+      "Next Year Tax Rate": "25.89%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Montenegro",
+      "GDP (2022)": "$6,038,125,734.38 ",
+      "Revenue to GDP": "28.89%",
+      "Budget": "$1,744,562,812.50 ",
+      "Next Year Tax Rate": "28.89%",
+      "NPC Growth": "2.50%"
+    },
+    {
+      "Country": "Fiji",
+      "GDP (2022)": "$6,149,937,132.15 ",
+      "Revenue to GDP": "25.99%",
+      "Budget": "$1,598,563,561.58 ",
+      "Next Year Tax Rate": "25.99%",
+      "NPC Growth": "3.40%"
+    },
+    {
+      "Country": "Mauritania",
+      "GDP (2022)": "$6,104,176,423.74 ",
+      "Revenue to GDP": "23.80%",
+      "Budget": "$1,452,987,254.78 ",
+      "Next Year Tax Rate": "23.80%",
+      "NPC Growth": "5.20%"
+    },
+    {
+      "Country": "Barbados",
+      "GDP (2022)": "$5,191,394,615.79 ",
+      "Revenue to GDP": "25.93%",
+      "Budget": "$1,345,954,048.65 ",
+      "Next Year Tax Rate": "25.93%",
+      "NPC Growth": "-0.10%"
+    },
+    {
+      "Country": "Maldives",
+      "GDP (2022)": "$5,962,926,375.00 ",
+      "Revenue to GDP": "18.64%",
+      "Budget": "$1,111,320,000.00 ",
+      "Next Year Tax Rate": "18.64%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Swaziland",
+      "GDP (2022)": "$5,162,776,920.00 ",
+      "Revenue to GDP": "23.64%",
+      "Budget": "$1,220,389,200.00 ",
+      "Next Year Tax Rate": "23.64%",
+      "NPC Growth": "2.00%"
+    },
+    {
+      "Country": "Suriname",
+      "GDP (2022)": "$4,387,271,483.28 ",
+      "Revenue to GDP": "13.28%",
+      "Budget": "$582,834,605.81 ",
+      "Next Year Tax Rate": "13.28%",
+      "NPC Growth": "2.20%"
+    },
+    {
+      "Country": "Guyana",
+      "GDP (2022)": "$4,460,212,544.00 ",
+      "Revenue to GDP": "24.23%",
+      "Budget": "$1,080,810,213.89 ",
+      "Next Year Tax Rate": "24.23%",
+      "NPC Growth": "4.80%"
+    },
+    {
+      "Country": "Sierra Leone",
+      "GDP (2022)": "$4,445,677,845.75 ",
+      "Revenue to GDP": "18.07%",
+      "Budget": "$803,181,100.50 ",
+      "Next Year Tax Rate": "18.07%",
+      "NPC Growth": "5.50%"
+    },
+    {
+      "Country": "Burundi",
+      "GDP (2022)": "$3,616,047,732.67 ",
+      "Revenue to GDP": "17.02%",
+      "Budget": "$615,325,222.91 ",
+      "Next Year Tax Rate": "17.02%",
+      "NPC Growth": "0.40%"
+    },
+    {
+      "Country": "Timor-Leste",
+      "GDP (2022)": "$3,949,816,500.00 ",
+      "Revenue to GDP": "8.79%",
+      "Budget": "$347,287,500.00 ",
+      "Next Year Tax Rate": "8.79%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Liberia",
+      "GDP (2022)": "$3,703,084,075.63 ",
+      "Revenue to GDP": "19.29%",
+      "Budget": "$714,369,994.25 ",
+      "Next Year Tax Rate": "19.29%",
+      "NPC Growth": "4.50%"
+    },
+    {
+      "Country": "South Sudan",
+      "GDP (2022)": "$1,980,118,521.00 ",
+      "Revenue to GDP": "14.53%",
+      "Budget": "$287,765,811.00 ",
+      "Next Year Tax Rate": "14.53%",
+      "NPC Growth": "-13.00%"
+    },
+    {
+      "Country": "Lesotho",
+      "GDP (2022)": "$3,071,989,569.79 ",
+      "Revenue to GDP": "35.66%",
+      "Budget": "$1,095,510,450.50 ",
+      "Next Year Tax Rate": "35.66%",
+      "NPC Growth": "1.20%"
+    },
+    {
+      "Country": "Bhutan",
+      "GDP (2022)": "$3,267,753,138.69 ",
+      "Revenue to GDP": "24.41%",
+      "Budget": "$797,658,656.26 ",
+      "Next Year Tax Rate": "24.41%",
+      "NPC Growth": "4.80%"
+    },
+    {
+      "Country": "Central African Republic",
+      "GDP (2022)": "$2,935,737,000.00 ",
+      "Revenue to GDP": "9.11%",
+      "Budget": "$267,411,375.00 ",
+      "Next Year Tax Rate": "9.11%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Djibouti",
+      "GDP (2022)": "$2,905,724,489.10 ",
+      "Revenue to GDP": "29.26%",
+      "Budget": "$850,337,434.10 ",
+      "Next Year Tax Rate": "29.26%",
+      "NPC Growth": "6.70%"
+    },
+    {
+      "Country": "Cape Verde",
+      "GDP (2022)": "$2,314,970,112.00 ",
+      "Revenue to GDP": "21.23%",
+      "Budget": "$491,565,568.00 ",
+      "Next Year Tax Rate": "21.23%",
+      "NPC Growth": "4.00%"
+    },
+    {
+      "Country": "Belize",
+      "GDP (2022)": "$2,108,620,296.00 ",
+      "Revenue to GDP": "25.16%",
+      "Budget": "$530,604,000.00 ",
+      "Next Year Tax Rate": "25.16%",
+      "NPC Growth": "2.00%"
+    },
+    {
+      "Country": "Saint Lucia",
+      "GDP (2022)": "$2,084,877,480.00 ",
+      "Revenue to GDP": "21.44%",
+      "Budget": "$446,997,731.71 ",
+      "Next Year Tax Rate": "21.44%",
+      "NPC Growth": "3.60%"
+    },
+    {
+      "Country": "San Marino",
+      "GDP (2022)": "$1,840,117,586.00 ",
+      "Revenue to GDP": "37.40%",
+      "Budget": "$688,241,068.00 ",
+      "Next Year Tax Rate": "37.40%",
+      "NPC Growth": "1.00%"
+    },
+    {
+      "Country": "Gambia",
+      "GDP (2022)": "$1,995,222,910.66 ",
+      "Revenue to GDP": "10.97%",
+      "Budget": "$218,959,321.77 ",
+      "Next Year Tax Rate": "10.97%",
+      "NPC Growth": "5.40%"
+    },
+    {
+      "Country": "Antigua and Barbuda",
+      "GDP (2022)": "$1,849,986,811.00 ",
+      "Revenue to GDP": "17.48%",
+      "Budget": "$323,447,192.00 ",
+      "Next Year Tax Rate": "17.48%",
+      "NPC Growth": "3.00%"
+    },
+    {
+      "Country": "Seychelles",
+      "GDP (2022)": "$2,545,854,659.57 ",
+      "Revenue to GDP": "34.73%",
+      "Budget": "$884,170,531.43 ",
+      "Next Year Tax Rate": "34.73%",
+      "NPC Growth": "4.89%"
+    },
+    {
+      "Country": "Guinea-Bissau",
+      "GDP (2022)": "$1,817,471,250.00 ",
+      "Revenue to GDP": "14.39%",
+      "Budget": "$261,623,250.00 ",
+      "Next Year Tax Rate": "14.39%",
+      "NPC Growth": "5.00%"
+    },
+    {
+      "Country": "Solomon Islands",
+      "GDP (2022)": "$1,646,306,104.78 ",
+      "Revenue to GDP": "28.79%",
+      "Budget": "$473,953,114.22 ",
+      "Next Year Tax Rate": "28.79%",
+      "NPC Growth": "2.90%"
+    },
+    {
+      "Country": "Grenada",
+      "GDP (2022)": "$1,402,149,601.22 ",
+      "Revenue to GDP": "21.33%",
+      "Budget": "$299,110,422.46 ",
+      "Next Year Tax Rate": "21.33%",
+      "NPC Growth": "3.60%"
+    },
+    {
+      "Country": "St Kitts and Nevis",
+      "GDP (2022)": "$1,857,305,802.69 ",
+      "Revenue to GDP": "34.84%",
+      "Budget": "$647,083,942.56 ",
+      "Next Year Tax Rate": "34.84%",
+      "NPC Growth": "11.89%"
+    },
+    {
+      "Country": "Vanuatu",
+      "GDP (2022)": "$1,135,327,104.00 ",
+      "Revenue to GDP": "19.92%",
+      "Budget": "$226,178,446.50 ",
+      "Next Year Tax Rate": "19.92%",
+      "NPC Growth": "3.50%"
+    },
+    {
+      "Country": "Samoa",
+      "GDP (2022)": "$1,011,176,386.56 ",
+      "Revenue to GDP": "25.33%",
+      "Budget": "$256,091,410.94 ",
+      "Next Year Tax Rate": "25.33%",
+      "NPC Growth": "3.20%"
+    },
+    {
+      "Country": "Saint Vincent and the Grenadines",
+      "GDP (2022)": "$928,209,477.79 ",
+      "Revenue to GDP": "25.61%",
+      "Budget": "$237,673,015.07 ",
+      "Next Year Tax Rate": "25.61%",
+      "NPC Growth": "2.30%"
+    },
+    {
+      "Country": "Comoros",
+      "GDP (2022)": "$809,348,594.24 ",
+      "Revenue to GDP": "20.00%",
+      "Budget": "$161,869,718.85 ",
+      "Next Year Tax Rate": "20.00%",
+      "NPC Growth": "2.80%"
+    },
+    {
+      "Country": "Dominica",
+      "GDP (2022)": "$705,733,496.78 ",
+      "Revenue to GDP": "27.46%",
+      "Budget": "$193,782,110.43 ",
+      "Next Year Tax Rate": "27.46%",
+      "NPC Growth": "9.40%"
+    },
+    {
+      "Country": "São Tomé and Príncipe",
+      "GDP (2022)": "$564,877,231.88 ",
+      "Revenue to GDP": "23.03%",
+      "Budget": "$130,092,938.25 ",
+      "Next Year Tax Rate": "23.03%",
+      "NPC Growth": "4.50%"
+    },
+    {
+      "Country": "Tonga",
+      "GDP (2022)": "$576,552,515.13 ",
+      "Revenue to GDP": "27.09%",
+      "Budget": "$156,174,102.88 ",
+      "Next Year Tax Rate": "27.09%",
+      "NPC Growth": "5.50%"
+    },
+    {
+      "Country": "Micronesia",
+      "GDP (2022)": "$351,317,355.32 ",
+      "Revenue to GDP": "62.57%",
+      "Budget": "$219,830,158.01 ",
+      "Next Year Tax Rate": "62.57%",
+      "NPC Growth": "0.90%"
+    },
+    {
+      "Country": "Palau",
+      "GDP (2022)": "$335,183,271.47 ",
+      "Revenue to GDP": "39.49%",
+      "Budget": "$132,365,368.35 ",
+      "Next Year Tax Rate": "39.49%",
+      "NPC Growth": "2.20%"
+    },
+    {
+      "Country": "Marshall Islands",
+      "GDP (2022)": "$254,056,110.22 ",
+      "Revenue to GDP": "49.16%",
+      "Budget": "$124,893,129.82 ",
+      "Next Year Tax Rate": "49.16%",
+      "NPC Growth": "2.20%"
+    },
+    {
+      "Country": "Kiribati",
+      "GDP (2022)": "$226,559,524.86 ",
+      "Revenue to GDP": "93.84%",
+      "Budget": "$212,600,881.15 ",
+      "Next Year Tax Rate": "93.84%",
+      "NPC Growth": "2.40%"
+    },
+    {
+      "Country": "Nauru",
+      "GDP (2022)": "$110,614,086.00 ",
+      "Revenue to GDP": "50.88%",
+      "Budget": "$56,277,342.00 ",
+      "Next Year Tax Rate": "50.88%",
+      "NPC Growth": "-1.00%"
+    },
+    {
+      "Country": "Tuvalu",
+      "GDP (2022)": "$55,277,484.13 ",
+      "Revenue to GDP": "87.76%",
+      "Budget": "$48,508,812.60 ",
+      "Next Year Tax Rate": "87.76%",
+      "NPC Growth": "4.10%"
+    }
+  ]
+}
